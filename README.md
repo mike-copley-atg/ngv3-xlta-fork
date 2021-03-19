@@ -1,3 +1,5 @@
+NOTE: This is a modified version of the XLTA source for the purposes of development of the NetGroveV3 tool, whose aim is to ultimately supplant other command line tools, such as the LTA, so that Live service traffic can be captured and diagnosed within one cohesive GUI environment.
+
 ## Welcome!
 
 The Xbox Live Trace Analyzer tool ensures your title is using Xbox Live Services in an optimal fashion. Generate usage logs for your title as described in the Analyze Calls to Xbox Live Services article, and then run this tool to view statistics about repeated calls, burst calls, and more. When your title uses Xbox Live Services properly, you will mitigate the risk of being throttled, reduce the chance of unexpected behavior, and improve the performance of your title.
